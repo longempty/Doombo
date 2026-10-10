@@ -1,3 +1,7 @@
 # draw.io backup files
 *.bkp
 .$*
+
+# Python cache
+__pycache__/
+*.pyc
